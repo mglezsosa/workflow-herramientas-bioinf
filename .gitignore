@@ -1,0 +1,11 @@
+*.RData
+*.Rhistory
+*.txt
+*.png
+*.csv
+*.xml
+*.pdf
+*.tsv
+R/nature11412-s2
+R/gdac.broadinstitute.org*
+test*
